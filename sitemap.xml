@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kazanspe.info/categories/</loc>
+    <loc>https://kazanspe.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazanspe.info/</loc>
+    <loc>https://kazanspe.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kazanspe.info/tags/</loc>
+    <loc>https://kazanspe.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
